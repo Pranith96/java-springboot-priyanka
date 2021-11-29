@@ -1,0 +1,8 @@
+package com.multipleinheritance;
+
+public class Subtraction extends Addition, Multplication{
+
+	public void sub() {
+		System.out.println("Subtraction");
+	}
+}

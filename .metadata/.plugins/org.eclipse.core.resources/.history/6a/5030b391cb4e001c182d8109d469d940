@@ -1,0 +1,9 @@
+package com.heirarchalinheritance;
+
+public class MainMethodExample2 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

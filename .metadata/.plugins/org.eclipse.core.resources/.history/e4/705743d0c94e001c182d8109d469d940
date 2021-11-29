@@ -1,0 +1,5 @@
+package com.singleinheritance;
+
+public class Summation extends Addition {
+
+}
